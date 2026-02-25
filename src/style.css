@@ -1,0 +1,12 @@
+.game {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: aquamarine;
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 5px;
+}
